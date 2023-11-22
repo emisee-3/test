@@ -1,6 +1,14 @@
 How to git:
-ssh-keygen
-copy publich key to github account (generate new ssh key)
-git clone "ssh link from github"
+ssh-keygen -> gererate new ssh key
+copy public key to github account (generate new ssh key)
+git clone "ssh link from github" -> add repository to computer
 
+git status -> gets status
+git add -A -> stages files to be committed ('-A' for all, oterwise filename)
+git commit -m "comment describing change" -> commits all staged changes, '-m' for comment
+git push 
 
+Branching:
+git branch -> shows all branches and highlights what branch I'm on
+git branch newBranchName
+git checkout BranchName
