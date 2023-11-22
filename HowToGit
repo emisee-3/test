@@ -1,0 +1,6 @@
+How to git:
+ssh-keygen
+copy publich key to github account (generate new ssh key)
+git clone "ssh link from github"
+
+
