@@ -10,5 +10,5 @@ git push
 
 Branching:
 git branch -> shows all branches and highlights what branch I'm on
-git branch newBranchName
-git checkout BranchName
+git branch newBranchName -> creates new branch
+git checkout BranchName -> change branch to BranchName
