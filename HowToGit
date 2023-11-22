@@ -12,3 +12,6 @@ Branching:
 git branch -> shows all branches and highlights what branch I'm on
 git branch newBranchName -> creates new branch
 git checkout BranchName -> change branch to BranchName
+git merge BranchName -> merge BranchName to your branch (then push merge)
+git branch -d BranchName -> delete branch BranchName
+
